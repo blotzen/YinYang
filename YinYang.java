@@ -1,3 +1,9 @@
+/*
+*Author Franz Brandl
+*
+*Messing around with console output and math stuff
+*/
+
 public final class YinYang {
 
 	private static final int _size = 81;	// odd number for straight mid
